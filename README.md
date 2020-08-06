@@ -1,7 +1,7 @@
 ## Hola, I'm Xyra 👋🏽 👩🏻‍💻
 
 
-![horizons copy](https://user-images.githubusercontent.com/65522080/89479319-8071df00-d760-11ea-944f-befdd037d69f.png)
+![horizons (1)](https://user-images.githubusercontent.com/65522080/89490464-ef5c3180-d77a-11ea-9ce3-abb8477db810.png)
 
 a little bit more about me ... 
 
