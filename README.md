@@ -7,7 +7,7 @@
 
 <img align='left' src="https://user-images.githubusercontent.com/65522080/90307107-5d060d00-dea1-11ea-9f6b-2318ed2504fe.png" width="140" height ="140">
 
-<img align='right' src="https://data.whicdn.com/images/235333051/original.gif" width="310" height ="350">
+<img align='right' src="https://data.whicdn.com/images/235333051/original.gif" width="310" height ="400">
 
 a little bit more about me ... 
 
