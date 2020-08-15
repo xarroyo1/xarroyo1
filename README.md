@@ -1,5 +1,7 @@
 ## Hola, I'm Xyra 👋🏽 👩🏻‍💻
 
+[![Twitter Link](https://img.shields.io/twitter/follow/x_ray75?style=social)](https://twitter.com/x_ray75)
+[![Linkedin: Xyra Arroyo](https://img.shields.io/badge/-Xyra-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/xarroyo1)
 
 ![horizons (1)](https://user-images.githubusercontent.com/65522080/89490464-ef5c3180-d77a-11ea-9ce3-abb8477db810.png)
 
