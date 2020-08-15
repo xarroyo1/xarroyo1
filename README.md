@@ -8,10 +8,6 @@
 <img align='left' src="https://user-images.githubusercontent.com/65522080/90307107-5d060d00-dea1-11ea-9f6b-2318ed2504fe.png" width="140" height ="140">
 
 <img align='right' src="https://data.whicdn.com/images/235333051/original.gif" width="310" height ="400">
-
-
-
-
 a little bit more about me ... 
 
 <img align="left" width="430" alt="Screen Shot 2020-08-05 at 7 43 35 PM" src="https://user-images.githubusercontent.com/65522080/89474687-51ee0700-d754-11ea-981d-c2965c332c05.png"> 
