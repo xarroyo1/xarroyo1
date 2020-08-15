@@ -3,7 +3,9 @@
 [![Twitter Link](https://img.shields.io/twitter/follow/x_ray75?style=social)](https://twitter.com/x_ray75)
 [![Linkedin: Xyra Arroyo](https://img.shields.io/badge/-Xyra-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/xarroyo1)
 
-<img src="https://i.pinimg.com/originals/79/48/0e/79480e87d9fcb11532f5fa7100f1644d.gif" width="230">
+![horizons (1)](https://user-images.githubusercontent.com/65522080/89490464-ef5c3180-d77a-11ea-9ce3-abb8477db810.png)
+
+<img align='right' src="https://data.whicdn.com/images/235333051/original.gif" width="230">
 
 a little bit more about me ... 
 
