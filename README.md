@@ -6,7 +6,7 @@
 ![horizons (1)](https://user-images.githubusercontent.com/65522080/89490464-ef5c3180-d77a-11ea-9ce3-abb8477db810.png)
 
 <img align='right' src="https://user-images.githubusercontent.com/65522080/90307107-5d060d00-dea1-11ea-9f6b-2318ed2504fe.png" width="140" height ="140">
-
+<br>
 <img align='right' src="https://data.whicdn.com/images/235333051/original.gif" width="220" height ="240">
 
 a little bit more about me ... 
