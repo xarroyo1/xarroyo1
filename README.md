@@ -1,4 +1,4 @@
-## Hola, I'm Xyra 👋🏽 👩🏻‍💻 <img align='left' src="https://user-images.githubusercontent.com/65522080/90307107-5d060d00-dea1-11ea-9f6b-2318ed2504fe.png" width="130" height ="130">
+## Hola, I'm Xyra 👋🏽 <img align='left' src="https://user-images.githubusercontent.com/65522080/90307107-5d060d00-dea1-11ea-9f6b-2318ed2504fe.png" width="130" height ="130">
 
 [![Twitter Link](https://img.shields.io/twitter/follow/x_ray75?style=social)](https://twitter.com/x_ray75)
 
