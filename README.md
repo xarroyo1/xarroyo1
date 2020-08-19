@@ -8,7 +8,7 @@
 
 <img align='right' src="https://data.whicdn.com/images/235333051/original.gif" width="340" height ="340">
 
-a little bit more about me ... 
+un poco mas about me ... 
 
 
 <img align="left" width="450" alt="Screen Shot 2020-08-05 at 7 43 35 PM" src="https://user-images.githubusercontent.com/65522080/89474687-51ee0700-d754-11ea-981d-c2965c332c05.png"> 
