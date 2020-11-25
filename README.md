@@ -10,7 +10,7 @@
 
 un poco mas about me ... 
 
-<img align="left" width="450" alt="github pic" src="https://user-images.githubusercontent.com/65522080/100278651-3c832f80-2f33-11eb-9c05-d5bd4ed0ea2f.png">
+<img align="left" width="450" alt="Screen Shot 2020-11-25 at 3 33 27 PM" src="https://user-images.githubusercontent.com/65522080/100278921-9c79d600-2f33-11eb-848f-e8bd51c558f7.png">
 
 
 
